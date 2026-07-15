@@ -1,0 +1,6 @@
+# =========================================================
+# AMS-Plugin Konfiguration
+# =========================================================
+# Aktuell sind Preise/Basiswerte direkt im Code hinterlegt
+# (de.allinone.ams.data.AmsManager / AmsAccount).
+# =========================================================

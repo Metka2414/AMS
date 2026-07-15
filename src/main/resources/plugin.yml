@@ -1,0 +1,11 @@
+name: AmsPlugin
+version: '1.0'
+main: de.allinone.ams.AmsPlugin
+api-version: '1.21'
+author: AllInOne
+description: AMS - digitale Spawner die passiv Geld generieren, kaufbar in 1/25/50/100er Paketen mit Upgrades
+depend: [Vault]
+commands:
+  ams:
+    description: Oeffnet das AMS-Menue
+    usage: /ams
